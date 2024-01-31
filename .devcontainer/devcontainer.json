@@ -1,6 +1,7 @@
 {
 	"name": "cs128",
-	"image": "michaelrnowak/cpp-dev-container:latest",
+	"image": "michaelrnowak/cpp-dev-container:latest", // uncomment this when using this file in production.
+	//"image": "cs128dev", // comment this out when using this file in production.
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
